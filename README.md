@@ -3,8 +3,8 @@
 ## Github link
 https://github.com/dvn14/SML_Group_14.git
 
-## Final Model with the Data used
-Enter file name here
+## Final Model and Features with the Data used
+Located in Final Submission Code -> all
 
-## Model Evaluation and Feature Evalustion
+## Model Evaluation and Feature Evaluation
 Located in Devin File Dump -> all
